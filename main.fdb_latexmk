@@ -1,21 +1,18 @@
 # Fdb version 4
-["biber main"] 1710689998 "main.bcf" "main.bbl" "main" 1710690409 0
-  "./lit.bib" 1710689952 229 946b4f497d781cd434968b49c02c2738 ""
-  "main.bcf" 1710690409 107215 cf03b7b404cf235d68a25a8c5b8e4554 "pdflatex"
+["biber main"] 1710691409 "main.bcf" "main.bbl" "main" 1710691414 0
+  "./lit.bib" 1710691362 229 946b4f497d781cd434968b49c02c2738 ""
+  "main.bcf" 1710691414 107215 cf03b7b404cf235d68a25a8c5b8e4554 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1710690408 "/Users/lasse/VSCode/Latex/F-Praktikum-KIT-Vorlage/main.tex" "main.pdf" "main" 1710690409 0
-  "/Users/lasse/VSCode/Latex/F-Praktikum-KIT-Vorlage/main.tex" 1710690408 1023 ef3c7f2a28d4cbaff30235501e79063c ""
+["pdflatex"] 1710691413 "/Users/lasse/VSCode/Latex/FOPRA-template/main.tex" "main.pdf" "main" 1710691414 0
+  "/Users/lasse/VSCode/Latex/FOPRA-template/main.tex" 1710691362 1023 ef3c7f2a28d4cbaff30235501e79063c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1614462139 2289 b1d356015c8fd065cb4437d567449559 ""
@@ -95,12 +92,12 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1683826908 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1683826901 7883458 0b0d7a8097a00b60f71fcb8c04ad621a ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Sections/0.tex" 1710689952 123 1664d9fd6f9993055ff95d557c1fd598 ""
-  "main.aux" 1710690409 241 dd9461e978bf1152116db475f9889354 "pdflatex"
-  "main.bbl" 1710690010 466 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.run.xml" 1710690409 2365 6b57cfc411e595131c90c254f17bed94 "pdflatex"
-  "main.tex" 1710690408 1023 ef3c7f2a28d4cbaff30235501e79063c ""
-  "main.toc" 1710690409 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
+  "Sections/0.tex" 1710691404 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "main.aux" 1710691414 241 807578280583ce3a861768a4864ebaee "pdflatex"
+  "main.bbl" 1710691412 466 ee04f40f768daeed26442158e95aba61 "biber main"
+  "main.run.xml" 1710691414 2365 6b57cfc411e595131c90c254f17bed94 "pdflatex"
+  "main.tex" 1710691362 1023 ef3c7f2a28d4cbaff30235501e79063c ""
+  "main.toc" 1710691414 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
